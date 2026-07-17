@@ -1,2 +1,2 @@
-local Library = loadstring(game:HttpGet("https://lux-sever-top.lovable.app/api/public/script-raw/ace2ed74-319f-4e82-915d-198201818d74"))()
+local Library = loadstring(game:HttpGet("https://lux-sever-top.lovable.app/api/public/script-raw/6e1cb535-9137-46b2-a804-155e0c4a8cb3"))()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/oday018/LUX/refs/heads/main/AP%20LUX%20SPAM"))()
